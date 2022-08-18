@@ -1,0 +1,10 @@
+m
+dC:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerCounterValue.csutf-8q
+hC:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerMarkerExtensions.csutf-8i
+`C:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerCategory.csutf-8n
+eC:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerMarker2Params.csutf-8n
+eC:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerMarker3Params.csutf-8h
+_C:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerCounter.csutf-8m
+dC:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerMarker1Param.csutf-8h
+_C:\code\ispclone\Library\PackageCache\com.unity.profiling.core@1.0.2\Runtime\ProfilerUtility.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

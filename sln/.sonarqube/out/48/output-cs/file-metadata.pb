@@ -1,0 +1,11 @@
+ï
+ãC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\EventPayloadRegistrationAssemblyProcessor.csutf-8Ñ
+{C:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\IAssemblyProcessingLogger.csutf-8Ä
+wC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\AssemblyProcessorMain.csutf-8à
+C:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\PostProcessorAssemblyResolver.csutf-8ã
+ÅC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\PostProcessorReflectionImporter.csutf-8ì
+âC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\PostProcessorReflectionImporterProvider.csutf-8y
+pC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\CodeGenHelpers.csutf-8ï
+ãC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\MetricIdTypeRegistrationAssemblyProcessor.csutf-8|
+sC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStats\CodeGen\IAssemblyProcesor.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

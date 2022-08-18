@@ -1,0 +1,12 @@
+ò
+éC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\RuntimeNetStatsMonitorEditor.csutf-8ó
+çC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\PositionConfigurationDrawer.csutf-8ô
+èC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\CustomTestDataGeneratorEditor.csutf-8ñ
+åC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\CounterConfigurationDrawer.csutf-8}
+tC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\AssemblyInfo.csutf-8û
+îC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\NetStatsMonitorConfigurationEditor.csutf-8í
+àC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\MetricIdPropertyDrawer.csutf-8î
+äC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\GraphConfigurationDrawer.csutf-8ù
+ìC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\DisplayElementConfigurationDrawer.csutf-8ï
+ãC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetStatsMonitor\Editor\Inspector\Util\CustomInspectorUtils.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

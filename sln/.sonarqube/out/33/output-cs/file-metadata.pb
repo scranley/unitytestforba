@@ -1,0 +1,13 @@
+b
+YC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\Settings.csutf-8n
+eC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\UserSettingsProvider.csutf-8s
+jC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\PackageSettingsRepository.csutf-8d
+[C:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\Attributes.csutf-8e
+\C:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\UserSetting.csutf-8l
+cC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\SettingsDictionary.csutf-8p
+gC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\UserSettingsRepository.csutf-8m
+dC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\ISettingsRepository.csutf-8f
+]C:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\UserSettings.csutf-8f
+]C:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\ValueWrapper.csutf-8k
+bC:\code\ispclone\Library\PackageCache\com.unity.settings-manager@1.0.3\Editor\SettingsGUILayout.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

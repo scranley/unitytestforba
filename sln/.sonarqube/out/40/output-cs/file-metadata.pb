@@ -1,0 +1,11 @@
+ñ
+åC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\NetStatsMonitor\NetStatsMonitorSettingsMenu.csutf-8m
+dC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\AssemblyInfo.csutf-8ï
+ãC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\NetStatsMonitor\NetStatsMonitorBuildSymbol.csutf-8y
+pC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\ProjectSettings.csutf-8w
+nC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\UssClassNames.csutf-8Å
+xC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\ProjectSettingsProvider.csutf-8ó
+çC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\NetStatsMonitor\NetStatsMonitorBuildSettings.csutf-8ó
+çC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\NetStatsMonitor\NetStatsMonitorBuildLogEntry.csutf-8}
+tC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\Editor\Settings\ProjectSettingsMenu.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

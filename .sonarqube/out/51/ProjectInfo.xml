@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Unity.Multiplayer.Tools.MetricTypes.Tests.Editor</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>a1aeddde-d577-c08a-5dec-c0337870242b</ProjectGuid>
+  <FullPath>C:\code\ispclone\Unity.Multiplayer.Tools.MetricTypes.Tests.Editor.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\code\ispclone\.sonarqube\out\51\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\code\ispclone\Temp\bin\Debug\Unity.Multiplayer.Tools.MetricTypes.Tests.Editor.dll.RoslynCA.json|C:\code\ispclone\Temp\bin\Debug\Unity.Multiplayer.Tools.MetricTypes.Tests.Editor.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\code\ispclone\.sonarqube\out\51</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

@@ -1,0 +1,12 @@
+6
+-C:\code\ispclone\Assets\Scripts\EnemyAgent.csutf-88
+/C:\code\ispclone\Assets\Scripts\PlayerBullet.csutf-87
+.C:\code\ispclone\Assets\Scripts\MenuControl.csutf-87
+.C:\code\ispclone\Assets\Scripts\EnemyBullet.csutf-88
+/C:\code\ispclone\Assets\Scripts\LobbyControl.csutf-82
+)C:\code\ispclone\Assets\Scripts\Shield.csutf-8B
+9C:\code\ispclone\Assets\Scripts\SceneTransitionHandler.csutf-88
+/C:\code\ispclone\Assets\Scripts\InvadersGame.csutf-8>
+5C:\code\ispclone\Assets\Scripts\SuperEnemyMovement.csutf-89
+0C:\code\ispclone\Assets\Scripts\PlayerControl.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Unity.Multiplayer.Tools.NetworkSolutionInterface.Tests.Editor</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>73edb8e1-9b9a-6d56-120c-a716d0d4d6db</ProjectGuid>
+  <FullPath>C:\code\ispclone\Unity.Multiplayer.Tools.NetworkSolutionInterface.Tests.Editor.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\code\ispclone\.sonarqube\out\56\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePath">C:\code\ispclone\Temp\bin\Debug\Unity.Multiplayer.Tools.NetworkSolutionInterface.Tests.Editor.dll.RoslynCA.json|C:\code\ispclone\Temp\bin\Debug\Unity.Multiplayer.Tools.NetworkSolutionInterface.Tests.Editor.dll.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPath">C:\code\ispclone\.sonarqube\out\56</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>

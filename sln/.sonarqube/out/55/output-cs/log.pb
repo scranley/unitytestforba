@@ -1,0 +1,1 @@
+Roslyn version: 3.11.0.0Language version: CSharp9!Concurrent execution: enabledtpFile 'C:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.cs' was recognized as generated

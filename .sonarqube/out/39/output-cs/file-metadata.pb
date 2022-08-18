@@ -1,0 +1,12 @@
+c
+ZC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\Searcher.csutf-8n
+eC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherTreeUtility.csutf-8i
+`C:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherWindow.csutf-8j
+aC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherControl.csutf-8^
+UC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\AssemblyInfo.csutf-8n
+eC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherHighlighter.csutf-8g
+^C:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherItem.csutf-8j
+aC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherAdapter.csutf-8o
+fC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherDatabaseBase.csutf-8k
+bC:\code\ispclone\Library\PackageCache\com.unity.searcher@4.9.1\Editor\Searcher\SearcherDatabase.csutf-8X
+MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8
