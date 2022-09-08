@@ -1,9 +1,0 @@
-ò
-éC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\Counter\ProfilerCountersTestData.csutf-8î
-äC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\DetailsViewFoldoutStateTests.csutf-8ä
-ÄC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\Search\TestRowData.csutf-8ó
-çC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\TreeModel\TreeModelBuilderTests.csutf-8á
-~C:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\Search\SortTests.csutf-8ä
-ÄC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\Search\SearchTests.csutf-8ï
-ãC:\code\ispclone\Library\PackageCache\com.unity.multiplayer.tools@1.0.0-pre.7\NetworkProfiler\Tests\Editor\Counter\ProfilerCountersTests.csutf-8X
-MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8

@@ -1,9 +1,0 @@
-{
-rC:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\UserIdProviders\AndroidUtils.csutf-8}
-tC:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\UserIdProviders\NSUserDefaults.csutf-8k
-bC:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\AssemblyInfo.csutf-8Å
-xC:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\UserIdProviders\UnityAdsIdentifier.csutf-8Ü
-}C:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\UserIdProviders\IUserIdentifierProvider.csutf-8m
-dC:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\InstallationId.csutf-8á
-~C:\code\ispclone\Library\PackageCache\com.unity.services.core@1.4.0\Runtime\Device\UserIdProviders\UnityAnalyticsIdentifier.csutf-8X
-MC:\code\ispclone\obj\Debug\.NETFramework,Version=v4.7.1.AssemblyAttributes.csutf-8
